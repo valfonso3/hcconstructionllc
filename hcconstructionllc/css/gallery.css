@@ -1,0 +1,460 @@
+.caption-style-4-cabinets li{
+		float: left;
+		padding: 1.5px;
+		position: relative;
+		overflow: hidden;
+		margin:0px;
+		width:100%;
+	}
+	.caption-style-4-cabinets li:hover .caption{
+		opacity: 0.8;
+	}
+
+	.caption-style-4 li:hover img{
+		opacity: 1;
+		transform: scale(1.15,1.15);
+		-webkit-transform:scale(1.15,1.15);
+		-moz-transform:scale(1.15,1.15);
+		-ms-transform:scale(1.15,1.15);
+		-o-transform:scale(1.15,1.15);
+	}
+
+
+	.caption-style-4-cabinets img{
+		margin: 0px;
+		padding: 0px;
+		float: left;
+		z-index: 0;
+	}
+
+
+	.caption-style-4-cabinets .caption{
+		cursor: pointer;
+		position: absolute;
+		opacity: 0;
+		-webkit-transition:all 0.45s ease-in-out;
+		-moz-transition:all 0.45s ease-in-out;
+		-o-transition:all 0.45s ease-in-out;
+		-ms-transition:all 0.45s ease-in-out;
+		transition:all 0.45s ease-in-out;
+	}
+
+	.caption-style-4-cabinets img{
+		-webkit-transition:all 0.25s ease-in-out;
+		-moz-transition:all 0.25s ease-in-out;
+		-o-transition:all 0.25s ease-in-out;
+		-ms-transition:all 0.25s ease-in-out;
+		transition:all 0.25s ease-in-out;
+	}
+	.caption-style-4-cabinets .blur{
+		background-color: rgba(0,0,0,0.65);
+		height: 300px;
+		width: 400px;
+		z-index: 5;
+		position: absolute;
+	}
+
+	.caption-style-4-cabinets .caption-text h1{
+		text-transform: uppercase;
+		font-size: 24px;
+		color:#fff;
+	}
+	.caption-style-4-cabinets .caption-text{
+		z-index: 10;
+		color: #fff;
+		position: absolute;
+		width: 400px;
+		height: 300px;
+		text-align: center;
+		top:100px;
+	}
+	.cabinets{
+	    margin:100px 0;
+	}
+	
+	.cabinets p{
+	    font-size:16px;
+	    color:777777;
+	    line-height:1.66em;
+	}
+	.cabinets h3{
+	    letter-spacing: 1px;
+        text-transform: uppercase;
+        font-size: 24px;
+        color: #464646;
+        text-align: left;
+        font-style: inherit;
+        font-weight: bold;
+        padding-top: 0px;
+        padding-bottom: 10px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.caption-style-4-varios li{
+		float: left;
+		padding: 0px;
+		position: relative;
+		overflow: hidden;
+		margin:15px 0.5%;
+		width:30%;
+	}
+	.caption-style-4-varios li:hover .caption{
+		opacity: 0.8;
+	}
+
+	.caption-style-4 li:hover img{
+		opacity: 1;
+		transform: scale(1.15,1.15);
+		-webkit-transform:scale(1.15,1.15);
+		-moz-transform:scale(1.15,1.15);
+		-ms-transform:scale(1.15,1.15);
+		-o-transform:scale(1.15,1.15);
+	}
+
+
+	.caption-style-4-varios img{
+		margin: 0px;
+		padding: 0px;
+		float: left;
+		z-index: 0;
+	}
+
+
+	.caption-style-4-varios .caption{
+		cursor: pointer;
+		position: absolute;
+		opacity: 0;
+		-webkit-transition:all 0.45s ease-in-out;
+		-moz-transition:all 0.45s ease-in-out;
+		-o-transition:all 0.45s ease-in-out;
+		-ms-transition:all 0.45s ease-in-out;
+		transition:all 0.45s ease-in-out;
+	}
+
+	.caption-style-4-varios img{
+		-webkit-transition:all 0.25s ease-in-out;
+		-moz-transition:all 0.25s ease-in-out;
+		-o-transition:all 0.25s ease-in-out;
+		-ms-transition:all 0.25s ease-in-out;
+		transition:all 0.25s ease-in-out;
+	}
+	.caption-style-4-varios .blur{
+		background-color: rgba(0,0,0,0.65);
+		height: 300px;
+		width: 400px;
+		z-index: 5;
+		position: absolute;
+	}
+
+	.caption-style-4-varios .caption-text h1{
+		text-transform: uppercase;
+		font-size: 24px;
+		color:#fff;
+	}
+	.caption-style-4-varios .caption-text{
+		z-index: 10;
+		color: #fff;
+		position: absolute;
+		width: 400px;
+		height: 300px;
+		text-align: center;
+		top:100px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+.caption-style-4 li{
+		float: left;
+		padding: 0px;
+		position: relative;
+		overflow: hidden;
+		margin:15px 0.5%;
+	}
+
+	.caption-style-4 li:hover .caption{
+		opacity: 0.8;
+	}
+
+	.caption-style-4 li:hover img{
+		opacity: 1;
+		transform: scale(1.15,1.15);
+		-webkit-transform:scale(1.15,1.15);
+		-moz-transform:scale(1.15,1.15);
+		-ms-transform:scale(1.15,1.15);
+		-o-transform:scale(1.15,1.15);
+	}
+
+
+	.caption-style-4 img{
+		margin: 0px;
+		padding: 0px;
+		float: left;
+		z-index: 0;
+	}
+
+
+	.caption-style-4 .caption{
+		cursor: pointer;
+		position: absolute;
+		opacity: 0;
+		-webkit-transition:all 0.45s ease-in-out;
+		-moz-transition:all 0.45s ease-in-out;
+		-o-transition:all 0.45s ease-in-out;
+		-ms-transition:all 0.45s ease-in-out;
+		transition:all 0.45s ease-in-out;
+	}
+
+	.caption-style-4 img{
+		-webkit-transition:all 0.25s ease-in-out;
+		-moz-transition:all 0.25s ease-in-out;
+		-o-transition:all 0.25s ease-in-out;
+		-ms-transition:all 0.25s ease-in-out;
+		transition:all 0.25s ease-in-out;
+	}
+	.caption-style-4 .blur{
+		background-color: rgba(0,0,0,0.65);
+		height: 300px;
+		width: 400px;
+		z-index: 5;
+		position: absolute;
+	}
+
+	.caption-style-4 .caption-text h1{
+		text-transform: uppercase;
+		font-size: 24px;
+		color:#fff;
+	}
+	.caption-style-4 .caption-text{
+		z-index: 10;
+		color: #fff;
+		position: absolute;
+		width: 400px;
+		height: 300px;
+		text-align: center;
+		top:100px;
+	}
+	.text-gallery{
+		color: #fff;
+	}
+
+
+
+.bg1{
+	margin-top: 30px;
+    padding:70px 0 20px 0;
+}
+.bg1 .baths .kitchens .whole .basements .contact{
+	margin-top: 30px;
+    padding:70px 0 20px 0;
+}
+.bg2{
+    background: rgba(0, 0, 0, 0) url(../images/bg-gallery.jpg) no-repeat scroll center center / cover;
+    background-size: 100%;
+    color: #fff;
+    position: relative;
+    padding: 70px;
+}
+
+.bg2:before{
+    background: rgba(12, 90, 169, 0.88) none repeat scroll 0 0;
+    content: "";
+    display: block;
+    height: 100%;
+    left: -50%;
+    position: absolute;
+    top: 0;
+    transform: skewX(-30deg);
+    width: 100%;
+}
+.bg2-baths{
+	    background: rgba(0, 0, 0, 0) url(../images/bg-baths.jpg) no-repeat scroll center center / cover;
+	    background-size: 100%;
+	    color: #fff;
+	    position: relative;
+	    padding: 70px;
+	}
+	.bg2-baths:before{
+	    background: rgba(12, 90, 169, 0.88) none repeat scroll 0 0;
+	    content: "";
+	    display: block;
+	    height: 100%;
+	    left: -50%;
+	    position: absolute;
+	    top: 0;
+	    transform: skewX(-30deg);
+	    width: 100%;
+	}
+	.bg2-kitchens{
+	    background: rgba(0, 0, 0, 0) url(../images/bg-kitchens.jpg) no-repeat scroll center center / cover;
+	    background-size: 100%;
+	    color: #fff;
+	    position: relative;
+	    padding: 70px;
+	}
+	.bg2-kitchens:before{
+	    background: rgba(12, 90, 169, 0.88) none repeat scroll 0 0;
+	    content: "";
+	    display: block;
+	    height: 100%;
+	    left: -50%;
+	    position: absolute;
+	    top: 0;
+	    transform: skewX(-30deg);
+	    width: 100%;
+	}
+	.bg2-whole{
+	    background: rgba(0, 0, 0, 0) url(../images/bg-whole.jpg) no-repeat scroll center center / cover;
+	    background-size: 100%;
+	    color: #fff;
+	    position: relative;
+	    padding: 70px;
+	}
+	.bg2-whole:before{
+	    background: rgba(12, 90, 169, 0.88) none repeat scroll 0 0;
+	    content: "";
+	    display: block;
+	    height: 100%;
+	    left: -50%;
+	    position: absolute;
+	    top: 0;
+	    transform: skewX(-30deg);
+	    width: 100%;
+	}
+	.bg2-basements{
+	    background: rgba(0, 0, 0, 0) url(../images/bg-basements.jpg) no-repeat scroll center center / cover;
+	    background-size: 100%;
+	    color: #fff;
+	    position: relative;
+	    padding: 70px;
+	}
+	.bg2-basements:before{
+	    background: rgba(12, 90, 169, 0.88) none repeat scroll 0 0;
+	    content: "";
+	    display: block;
+	    height: 100%;
+	    left: -50%;
+	    position: absolute;
+	    top: 0;
+	    transform: skewX(-30deg);
+	    width: 100%;
+	}
+	.bg2-contact{
+	    background: rgba(0, 0, 0, 0) url(../images/bg-contact.jpg) no-repeat scroll center center / cover;
+	    background-size: 100%;
+	    color: #fff;
+	    position: relative;
+	    padding: 70px;
+	}
+	.bg2-contact:before{
+	    background: rgba(12, 90, 169, 0.88) none repeat scroll 0 0;
+	    content: "";
+	    display: block;
+	    height: 100%;
+	    left: -50%;
+	    position: absolute;
+	    top: 0;
+	    transform: skewX(-30deg);
+	    width: 100%;
+	}
+	.bg2-cabinets{
+	    background: rgba(0, 0, 0, 0) url(../images/cabinets-header.jpg) no-repeat scroll center center / cover;
+	    background-size: 100%;
+	    color: #fff;
+	    position: relative;
+	    padding: 70px;
+	}
+	.bg2-cabinets:before{
+	    background: rgba(12, 90, 169, 0.88) none repeat scroll 0 0;
+	    content: "";
+	    display: block;
+	    height: 100%;
+	    left: -50%;
+	    position: absolute;
+	    top: 0;
+	    transform: skewX(-30deg);
+	    width: 100%;
+	}
+@import "lesshat";
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.div-imag{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    .imag{
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;   
+        transform:scale(1);
+        -ms-transform:scale(1); // IE 9 
+        -moz-transform:scale(1); // Firefox 
+        -webkit-transform:scale(1); // Safari and Chrome 
+        -o-transform:scale(1); // Opera 
+        -webkit-transition: all 500ms ease-in-out; // IE 9
+        -moz-transition: all 500ms ease-in-out; // Firefox
+        -ms-transition: all 500ms ease-in-out; // Safari and Chrome 
+        -o-transition: all 500ms ease-in-out; // Opera       
+    }      
+    .texto{
+        font-family: 'Open Sans';
+        padding-top: 5px;
+        display:block;
+        text-align: center;
+        width: 100%;   
+        transform:translate(0px);
+        -webkit-transition: all 500ms ease-in-out;
+        -moz-transition: all 500ms ease-in-out;
+        -ms-transition: all 500ms ease-in-out;
+        -o-transition: all 500ms ease-in-out;
+        opacity: 0;
+        transition: transfom opacity 1.5s;
+    }
+    &:hover{
+        .imag{
+            transform:scale(0.8);
+            -ms-transform:scale(0.8); // IE 9 
+            -moz-transform:scale(0.8); // Firefox 
+            -webkit-transform:scale(0.8); // Safari and Chrome 
+            -o-transform:scale(0.8); // Opera
+        }
+        .texto{
+            transform:translate(0px,-20px);
+            opacity: 1;
+        
+        }
+    
+    } 
+}
